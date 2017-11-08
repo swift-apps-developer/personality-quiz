@@ -2,7 +2,7 @@
 This project is a simple app that guides the user through a personality quiz and displays the results.
 
 
-# The project covers:
+# This project covers:
 
 * Structure
 * Enumeration
